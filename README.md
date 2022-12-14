@@ -1,3 +1,11 @@
+# Rings fork by Abyss :D
+
+Added simple decay system on use of rings
+
+https://streamable.com/ic96qu
+
+
+
 # dynyx-rings
 Rings System that gives you armor, health, stamina, or stress depending on the ring you use.
 
